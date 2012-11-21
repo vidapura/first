@@ -15,6 +15,8 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     // this is just to test that I can push and pull files..
+    // And now to see if we can commit and revert
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
